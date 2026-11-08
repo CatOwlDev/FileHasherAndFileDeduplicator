@@ -1,0 +1,4 @@
+E:/Projects/FileDeduplicator/build/CMakeFiles/FileHasher.dir
+E:/Projects/FileDeduplicator/build/CMakeFiles/DuplicateFinder.dir
+E:/Projects/FileDeduplicator/build/CMakeFiles/edit_cache.dir
+E:/Projects/FileDeduplicator/build/CMakeFiles/rebuild_cache.dir
